@@ -1,4 +1,4 @@
-# Startup - Bootstrapping yourself beyond the idea phase 🦝
+# Bootstrapping your startup beyond the idea phase 🦝
 
 - [Introduction](#introduction)
 - [Your idea is great. But is it really?](#your-idea-is-great-but-is-it-really)
